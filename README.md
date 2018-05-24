@@ -1,2 +1,2 @@
 # Homepage
-Developed Homepage in HTML
+Simple Developed Homepage in HTML
